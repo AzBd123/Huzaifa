@@ -1,3 +1,3 @@
 # Huzaifa
 this is my first github experience 
-Author Huzaifa 
+Author Huzaifa Farooq
